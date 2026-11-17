@@ -1,0 +1,9 @@
+.main {
+  grid-area: main;
+  display: flex;
+  flex-direction: column;
+  height: calc((100% - var(--topbar-height)) - var(--footer-height) - 20px);
+  padding: 10px;
+  background-color: #f4f6f9;
+  overflow: auto;
+}
