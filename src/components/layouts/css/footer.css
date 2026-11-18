@@ -4,10 +4,8 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        height: 60px;
         padding: 0 24px;
         background-color: var(--dark-color);
-        /* border-top: 1px solid var(--dark-color); */
         box-shadow: 0 2px 5px #125185;
         font-size: 0.8rem;
         color: var(--text-muted);
