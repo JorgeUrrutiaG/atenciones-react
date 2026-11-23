@@ -5,10 +5,10 @@ import Topbar from './components/layouts/Topbar'
 import Main from './components/layouts/Main'
 
 function App() {
-
+ const titulo:string = "Mi Aplicación";
   return (
     <>
-      <Topbar />
+      <Topbar titulo={titulo}/>
       <Sidebar />
       <Main />
       <Footer />

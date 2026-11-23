@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Jorge Urrutia",
+            "email": "jorge.urrutia@example.com",
+            "cargo": "Informático"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "jane.smith@example.com",
+            "cargo": "Psicóloga"
+        }
+    ]
+}

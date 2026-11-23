@@ -67,6 +67,7 @@
 
 
     .topbar-tittle {
+        color: var(--white-color);
         font-weight: bold;
         cursor: default;
         font-size: 120%;

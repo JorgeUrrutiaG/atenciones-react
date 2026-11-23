@@ -40,26 +40,3 @@ body {
     "sidebar main"
     "footer footer";
 }
-
-/* #root {
-  font-family: "Inter", sans-serif;
-  font-size: 16px;
-  color: var(--dark-color);
-  background-color: #cfcfcf;
-  width: 100vw;
-  height: 100vh;
-  display: grid;
-  grid-template-rows: var(--topbar-height) 1fr var(--footer-height);
-  grid-template-columns: var(--sidebar-width) 1fr;
-  grid-template-areas:
-    "topbar topbar"
-    "sidebar main"
-    "footer footer";
-} */
-
-/* .sidebar {
-  grid-area: sidebar;
-  height: 100%;
-  width: var(--sidebar-width);
-  background-color: var(--dark-color);
-} */
