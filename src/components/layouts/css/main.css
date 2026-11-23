@@ -1,8 +1,0 @@
-
-.main {
-  grid-area: main;
-  padding: 20px;
-  overflow-y: auto; /* Permite scroll interno sin mover Topbar, Sidebar ni Footer */
-  background-color: #f3f4f6; /* O el fondo que prefieras para el área de trabajo */
-}
-
