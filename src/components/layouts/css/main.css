@@ -1,8 +1,8 @@
+
 .main {
   grid-area: main;
-  display: flex;
-  flex-direction: column;
   padding: 20px;
-  background-color: #f4f6f9;
-  /* overflow: auto; */
+  overflow-y: auto; /* Permite scroll interno sin mover Topbar, Sidebar ni Footer */
+  background-color: #f3f4f6; /* O el fondo que prefieras para el área de trabajo */
 }
+
